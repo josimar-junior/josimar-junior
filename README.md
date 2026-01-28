@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Josimar Junior 👋
 
-<!--
-**josimar-junior/josimar-junior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Backend Developer
 
-Here are some ideas to get you started:
+I am a seasoned **Senior Backend Developer** with a passion for building scalable, resilient, and high-performance distributed systems. My expertise lies in crafting robust APIs and microservices architectures using the Java ecosystem and modern cloud-native technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Professional Focus
+
+* **Languages & Frameworks:** Expert in **Java** and the **Spring Ecosystem** (Boot, Webflux, Cloud, Data, Security).
+* **DevOps & Infrastructure:** Strong experience with **Docker** and **Kubernetes** for container orchestration and automated scaling.
+* **Cloud Computing:** Advanced proficiency in **AWS**, leveraging services like Lambda, S3, RDS, DynamoDB, SQS, ECS and EKS to build cloud-native solutions.
+* **Architecture:** Focused on Microservices, Event-Driven Architecture, and Clean Code principles.
+
+---
+
+## 📊 GitHub Stats
+
+![Josimar's GitHub stats](https://github-readme-stats.vercel.app/api?username=josimar-junior&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josimar-junior&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect
+
+* **LinkedIn:** [https://www.linkedin.com/in/josimar-junior-9a302380](https://www.linkedin.com/in/josimar-junior-9a302380)
+* **Email:** [josimarjrdev@gmail.com](mailto:josimarjrdev@gmail.com)
+* **Site:** [https://josimar-junior.github.io](https://josimar-junior.github.io)
